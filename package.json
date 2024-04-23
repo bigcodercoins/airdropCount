@@ -1,0 +1,19 @@
+{
+  "name": "airdropcount",
+  "version": "1.0.0",
+  "description": "Get the current crypto projects that have been airdropped",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@mergit:bigcodercoins/airdropCount.git"
+  },
+  "keywords": [
+    "crypto",
+    "airdrop"
+  ],
+  "author": "josef",
+  "license": "ISC"
+}
